@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <array name="config_biometric_sensors" />
+    <string-array name="config_biometric_sensors" translatable="false">
+        <item>0:1:15</item>
 </resources>
